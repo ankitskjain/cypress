@@ -1,0 +1,17 @@
+{
+  "name": "cypressAutomation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "dependencies": {
+    "cypress-xpath": "latest"
+  },
+  "author": "Ankit",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^4.6.0"
+  }
+}
